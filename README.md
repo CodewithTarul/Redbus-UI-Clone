@@ -39,7 +39,7 @@ Open a Pull Request
 Contact
 Tarul Sunil Barve - barvetarul2842@gmail.com
 
-Project Link: https://github.com/your-username/redbus-ui-clone
+Project Link: https://github.com/CodewithTarul/redbus-ui-clone
 
 Acknowledgements
 Redbus
