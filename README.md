@@ -23,8 +23,10 @@ You need a web browser to view the project.
 1. Clone the repo
    ```sh
    git clone https://github.com/your-username/redbus-ui-clone.git
-![image](https://github.com/user-attachments/assets/14325534-a4a5-4471-afdf-dea8581da590)
-![image](https://github.com/user-attachments/assets/aa267ec4-6b0f-41b9-a8c7-9dd13e5a0637)
+![image](https://github.com/user-attachments/assets/038ebb1a-b8cb-4e45-b01e-00cf0faace08)
+![image](https://github.com/user-attachments/assets/01d0449f-a63a-40b1-a369-bb4ff8c5f2ad)
+
+
 
 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
